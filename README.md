@@ -1,6 +1,6 @@
 # encryption-decryption
 
-- Input files consist of numbers from 0 to 6. The numbers represents some characters such as 0, 1, 2, 3, 4, 5, 6 are ‘ ’, ‘-’, ‘_’, ‘|’, ‘/’, ‘\’, ‘O‘ respectively.
+- Encrypted files consist of numbers from 0 to 6. The numbers represents some characters such as 0, 1, 2, 3, 4, 5, 6 are ‘ ’, ‘-’, ‘_’, ‘|’, ‘/’, ‘\’, ‘O‘ respectively.
 
 - Some files don’t mean anything when we use this description function, so we use the formula below to decyrpt them.
 
